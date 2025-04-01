@@ -7,7 +7,8 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/user-attachments/assets/082bb591-3311-4726-93d7-67ed2ae8dc40)
+
 
 
 ## FAQ
